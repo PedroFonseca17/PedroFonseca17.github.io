@@ -1,27 +1,24 @@
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
- console.log('file from github');
+ console.log('files minifies from zeit');
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
+ console.log('files minifies from zeit');
+
+
 
 
