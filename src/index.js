@@ -1,23 +1,6 @@
- console.log('files minifies from zeit');
- console.log('files minifies from zeit');
+const element = document.getElementById("text");
 
-
- console.log('files minifies from zeit');
-
-
- console.log('files minifies from zeit');
-
-
- console.log('files minifies from zeit');
-
-
- console.log('files minifies from zeit');
-
-
- console.log('files minifies from zeit');
-
-
- console.log('files minifies from zeit');
+element.innerHTML = 'This text was chnaged by a script from github';
 
 
 
